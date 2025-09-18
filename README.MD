@@ -1,4 +1,4 @@
-# Projeto XYZ
+# Projeto CodeLeap
 
 ## Demo
 - Frontend: https://code-leap-test-three.vercel.app/
